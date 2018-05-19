@@ -1,7 +1,7 @@
 # extendedUniquenessDrivenSimilarity
 
-code and data release for paper: A Uniqueness-Driven Similarity Measure for Automated Competitor Identification
-scripts wrote in R
+Code and data release for paper: A Uniqueness-Driven Similarity Measure for Automated Competitor Identification;
+Scripts wrote in R;
 Data is released under data subfolder in csv and RData files.
 
 simGenFun1-4.R each corresponding to one similarity calculation:
