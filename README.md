@@ -8,7 +8,7 @@ Instruction to replicate:
   1. Set your working directory to where you saved the R scripts and data;
      Create a folder named dissimilarityMatrices under your working directory
   2. Source the four simGenFun1-4.R files separately
-     Note that simGenFun1-4.R each corresponding to one similarity calculation:
+  Note that simGenFun1-4.R each corresponding to one similarity calculation:
      Goodall's similarity，
      Our proposed similarity measure，
      Our proposed distance similarity measure，
