@@ -1,4 +1,4 @@
-# extendedUniquenessDrivenSimilarity
+# Extended Uniqueness-Driven Similarity
 
 Code and data release for paper: A Uniqueness-Driven Similarity Measure for Automated Competitor Identification;
 Scripts wrote in R;
