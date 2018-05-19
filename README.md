@@ -12,7 +12,7 @@ Instruction to replicate:
      Goodall's similarity，
      Our proposed similarity measure，
      Our proposed distance similarity measure，
-     Our proposed bag-of-tags similarity measure。
+     Our proposed bag-of-tags similarity measure.
   3. After each source of simGenFun1-4.R file:
       （1) source simAggregation.R (chisqAgg function is to aggregate the dissimilarity calculated for each feature);
       （2) then save the similarity matrix by uncomment and run the corresponding write.csv command.
