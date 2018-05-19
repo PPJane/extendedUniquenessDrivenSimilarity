@@ -9,10 +9,10 @@ Instruction to replicate:
      Create a folder named dissimilarityMatrices under your working directory
   2. Source the four simGenFun1-4.R files separately
      Note that simGenFun1-4.R each corresponding to one similarity calculation:
-      （1) Goodall's similarity
-      （2) Our proposed similarity measure
-      （3) Our proposed distance similarity measure
-      （4) Our proposed bag-of-tags similarity measure
+     Goodall's similarity，
+     Our proposed similarity measure，
+     Our proposed distance similarity measure，
+     Our proposed bag-of-tags similarity measure。
   3. After each source of simGenFun1-4.R file:
       （1) source simAggregation.R (chisqAgg function is to aggregate the dissimilarity calculated for each feature);
       （2) then save the similarity matrix by uncomment and run the corresponding write.csv command.
